@@ -7,5 +7,6 @@ public class test {
         System.out.println("git test");
         System.out.println("second");
         System.out.println("master master master");
+        System.out.println("新增加的代码");
     }
 }
